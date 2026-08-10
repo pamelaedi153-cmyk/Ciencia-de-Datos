@@ -19,7 +19,7 @@ from sklearn.metrics import (
 st.title("Modelo de Predicción de la Situación Jurídica de Menores")
 
 st.image(
-    "children-playing-group.jpg",
+    "children-playing-group.jpg.jpeg",
     caption="Clasificación de la situación jurídica mediante aprendizaje supervisado"
 )
 
